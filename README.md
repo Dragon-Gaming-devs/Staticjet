@@ -5,6 +5,10 @@
 
 ---
 
+v1.1.0 release of Scramjet easily deployable! simply fork this repository, name the new repository exactlyscramjet, click on GitHub actions, and click I understand my workflows, go ahead and enable them then wait for a while! Then visit https://YourUsernameHere.github.io/scramjet and enjoy!
+
+---
+
 Scramjet is an experimental interception-based web proxy designed to evade internet censorship and bypass arbitrary browser restrictions.<br><br>
 Scramjet allows you to sandbox arbitrary web content, bypass CORS restrictions on loading websites, and instrument and debug websites inside the browser itself. This is accomplished through a combination of interception, rewriting, and sandboxing techniques. You can learn more about the technical details <a href="https://developer.puter.com/blog/how-I-ported-the-web-to-the-web/"><strong>here</strong></a>.<br><br>
 
