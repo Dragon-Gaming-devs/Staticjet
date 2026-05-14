@@ -4,8 +4,7 @@
 </div>
 
 ---
-
-v1.1.0 release of Scramjet easily deployable! simply fork this repository, name the new repository exactlyscramjet, click on GitHub actions, and click I understand my workflows, go ahead and enable them then wait for a while! Then visit https://YourUsernameHere.github.io/scramjet and enjoy!
+latest release of Scramjet easily deployable! simply fork this repository, name the new repository exactlyscramjet, click on GitHub actions, and click I understand my workflows, go ahead and enable them then wait for a while! Then visit https://YourUsernameHere.github.io/scramjet and enjoy!
 
 ---
 
